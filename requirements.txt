@@ -4,3 +4,4 @@ matplotlib
 seaborn
 gdown
 scikit-learn
+plotly
